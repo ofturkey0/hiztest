@@ -1,1 +1,1 @@
-# hiztest
+işte internet hızı testi.
